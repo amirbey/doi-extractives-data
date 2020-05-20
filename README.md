@@ -4,7 +4,7 @@
 
 This is the repository for active development work on [revenuedata.doi.gov](https://revenuedata.doi.gov). See [releases](https://github.com/onrr/doi-extractives-data/releases) for information about the current version of the site.
 
-**For more detailed process, development, and data information, please see our [repository's wiki](https://github.com/onrr/doi-extractives-data/wiki).**
+**For even more detailed process, development, and data information, please see our [repository's wiki](https://github.com/onrr/doi-extractives-data/wiki).**
 
 ## What
 
